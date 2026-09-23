@@ -244,7 +244,6 @@ Jika penyewaan dikonfirmasi, sistem membuat ID sewa secara otomatis dengan forma
    ![Gambar 13 - konfirmas-sewa](img/konfirmas-sewa.png)
 </p>
 
-Setelah menekan 'Y', ambil screenshot kedua yang menunjukkan transaksi berhasil, ID Sewa otomatis, total biaya, dan informasi bahwa status HP berubah menjadi DISEWA.
 
 <p align="center">
   <b>Gambar 14. Penyewaan Handphone Berhasil</b>
@@ -271,8 +270,6 @@ Dengan demikian, handphone tersebut dapat digunakan kembali untuk transaksi peny
 
    ![Gambar 15 - konfirmasi-pngembalian](img/konfirmasi-pengembalian.png)
 </p>
-
-Setelah melakukan konfirmasi 'Y', screenshot pesan yang menunjukkan bahwa handphone berhasil dikembalikan, status sewa menjadi SELESAI, dan status handphone menjadi TERSEDIA.
 
 <p align="center">
   <b>Gambar 16. Pengembalian Handphone Berhasil</b>
@@ -434,7 +431,7 @@ View akan menampilkan pesan apabila input tidak sesuai dan meminta pengguna mema
 
 ---
 
-## <b>8. Nilai Tambah Program</b>
+## <b>8. Penjelasan MVC dan Polymorphism</b>
 
 ### <b>8.1 Struktur MVC</b>
 
