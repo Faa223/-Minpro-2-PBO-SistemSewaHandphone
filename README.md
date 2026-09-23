@@ -2,9 +2,9 @@
 
   <h1> SISTEM PENYEWAAN HANDPHONE </h1>
 
-  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java" alt="Java" />
+  <img src="https://img.shields.io/badge/Language-Java-red?style=for-the-badge&logo=java" alt="Java" />
   <img src="https://img.shields.io/badge/Paradigm-OOP-green?style=for-the-badge" alt="OOP" />
-  <img src="https://img.shields.io/badge/Aplikasi-Apache NeatBeans-green?style=for-the-badge" alt="Apache NeatBeans" />
+  <img src="https://img.shields.io/badge/Aplikasi-Apache NeatBeans-blue?style=for-the-badge" alt="Apache NeatBeans" />
 
 </div>
 
@@ -19,10 +19,6 @@
   <tr>
     <td><b>NIM</b></td>
     <td>: 2509116092</td>
-  </tr>
-  <tr>
-    <td><b>Kelas</b></td>
-    <td>: C</td>
   </tr>
   <tr>
 </table>
