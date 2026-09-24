@@ -23,9 +23,6 @@
   <tr>
 </table>
 
-
-# SISTEM SEWA HANDPHONE
-
 ## <b>1. Deskripsi Singkat Program</b>
 
 Sistem Sewa Handphone merupakan program berbasis Java yang digunakan untuk mengelola data handphone, data pelanggan, serta proses penyewaan dan pengembalian handphone. Program dijalankan melalui console dan menggunakan <b>ArrayList</b> sebagai tempat penyimpanan data selama program berjalan.
